@@ -1,2 +1,3 @@
-hi teamB! this is our repo for ES143 final project!
-# teamB_sfm
+### if running locally, please make sure all of the necessary packages are installed.
+
+
