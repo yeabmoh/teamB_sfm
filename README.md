@@ -4,5 +4,5 @@
 ### Project.ipynb tests visualization of public dataset
 ### please also make sure your directories/paths are set correctly. 
 ### Everything you need to run compute_base_scene.ipynb should already be in the repository.
-
+### Sample point cloud visualizations generated from test images are included under visualizatons/
 
