@@ -1,2 +1,0 @@
-needed for cv2:
-sudo apt-get install libgl1-mesa-glx
