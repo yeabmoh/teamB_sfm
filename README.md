@@ -9,6 +9,7 @@ This project explores and implements the Structure from Motion (SfM) process. We
 - **colab_for_customDS** is where you can run SFM and bundle adjustment on our custom dataset
 - **colab_for_fountainDS** is where you can run SFM and bundle adjustment on the fountain dataset
  - **helpers.py** is where we keep all the functions(AND MORE) that make the above two files possible.
+ - **camera_calibration.ipynb** is where we calibrate.
 
 
 ## A poem by chatGPT 
